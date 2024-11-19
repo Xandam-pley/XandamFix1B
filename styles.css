@@ -9,9 +9,9 @@ display: flex;
 justify-content:center;
 }
 
-div}
-margin: 0px;
-}
+.chamada-texto { 
+margin-right: 5%
+ }
 
 header{
     border-bottom:solid 2px rgb(42, 122, 228);
